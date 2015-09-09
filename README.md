@@ -1,3 +1,6 @@
 # WindowsService
 Version 1
-This project is template for create windows service. It help you create, testing and install new windows service. Project consists three part: windows form (for testing), library class (for logical) and service (for install).
+Это шаблон для создания службы Windows. Решение состоит из трех проектов: 
+	TestService - проект Windows Form, для тестирования службы
+	Logical - библиотека классов, реализующих логику работы службы
+	Service - непосредственно описание сервиса, с данными для инсталирования службы.
